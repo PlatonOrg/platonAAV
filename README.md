@@ -38,12 +38,20 @@ Dans ce cas la le système vas utiliser l'OOAAV et vas utiliser chercher des AAV
 Les AAV disponible sont présentés à l'apprenant il en choisi un. 
 Le système vas trouver un exercice qui permet de travailler cet aav jusqu'a ce que le niveau soit "connus".
 
-### Reviser 
+### Consolider 
 Consolider le niveau d'aquisition de concepts déja testés. 
 On vas privilegier des AAV qui sont en erreur. Puis si il n'y en a pas des aav au niveau connus.
 De nouveau on propose les aav c'est l'apprenant qui choisi ceux qu'il souhaite travailler, il peux en choisir plusieurs.
 Le système vas trouver des exercices qui permettent de travailler ces aav et les proposer à l'élève jusqu'a ce qu'il en ai marre (ou que Le temps max d'une session soit dépassé).
 Si tous les AAV sont au niveau Maitrise => proposer à l'élève de visiter d'autre cours.
+
+### Reviser 
+Dans le cas d'une révision si la consolidation est réussie on passe a une phase de révision (entrainement),
+dans ce cas des exercices aléatoires sont proposés sur l'ensemble des aav maitrisés (éviter les exos de chutte qui devraient être trop facile ?).
+
+### S'organiser 
+Hors scope. A voir plus tard.
+
 
 
 
