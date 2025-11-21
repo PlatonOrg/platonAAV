@@ -60,12 +60,23 @@ Hors scope. A voir plus tard.
 Leur besoins sont variés mais concentrés sur le suivi des élèves. Eventuellement le suivi des ressources.
 
 ### Suivi des élèves 
-Identification des décrocheurs, et des Nouveaux décrocheur, chaque mois apporte sa peine ...
-Identifications de concepts (AAV) qui ne passent pas ou mal.
-Avancement général quantité de travail (combien de temps par semaine les élèves consacrent a ce cours...)
+ - Identification des décrocheurs, et des Nouveaux décrocheur, chaque mois apporte sa peine ...
+ - Identifications de concepts (AAV) qui ne passent pas ou mal.
+ - Avancement général quantité de travail (combien de temps par semaine les élèves consacrent a ce cours...)
+
+### Demander des exercices 
+### Gestionnaire d'OOAAV
+
+La manipulation des OOAAV doit être faite de de manière contrôlé, en effet de l'information définie sur l'OOAAV dépend tout la suite du processus et le fonctionnement de tous les cas d'utilisation. Le rôle de gestionnaire d'ooaav peux être pris par un enseignant ou un responsable de formation mais est en général le travail d'une équipe. Il est donc necessaire de conserver un historique des modifications qui soit lisible (pas un diff à la C... mais un historique formalisé en markdown par exemple). Les commandes blame/praise sont necessaires. 
+L'idée de fonctionnement est d'utiliser une IA pour faire les modifiations du graphe sans modifier les identifiants des aav. 
+Les modifications doivent conserver les liens avec les exercices qui utilisent les ID d'AAV pour les référencer.
 
 
-## Créateur de ressources 
+
+
+## Créateur de ressources
+
+Les créateurs de ressources veulent 
 
 ## Responsable de formation 
 
