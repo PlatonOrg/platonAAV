@@ -18,7 +18,9 @@ l'idée est de travailler avec de Ontologies Opérationnelles d'Aquis d'Apprenti
 * descriprion
 * type d'exercice
 * Evaluateur
-* 
+
+
+
 # Les acteurs 
 
 Les acteurs sont les apprenant (clients final des solutions proposés), les enseignants, les créateurs de contenus, les responsables de formation.
@@ -86,7 +88,50 @@ Les créateurs de ressources veulent
 
 
 
+# Les objets du modèle 
 
+Plusieurs NIVEAU QQCVD d'aav:
+1) Au niveau de la formation il y a des objectifs de formation qui sont des AAV qui ne sont pas évaluable directement mais peuvent être évalué par un jury qui décide au regarde des AAV de niveau inférieur que l'apprenant est méritant. Cela ce  base sur les information de l'OOAAV utilisé dans l'enseignement.
+2) Au niveau de la matière : Des aav généraux (chapitre) exprimés sous la forme de maitrise des concepts et techniques liés au chapitre truc. L'évaluation est aussi une estimation de la couverture d'aav de niveau inférieurs effectivement maitrisés.
+3) Au niveau du chapitre, le chapitre et décomposé en deux types d'AAV ceux qui peuvent être évalués par la plateforme et ceux qui demande une validation soit par une évaluation par les pairs soit une évaluation par l'enseignant.
+
+Remarques sur les évaluation par les pairs: C'est l'outil le plus direct pour faire des évaluations de prestation orales. Pour la participation a des projets c'est aussi un bon outil, non pas évaluer la prestation globale du groupe mais la prestation individuel dans le groupe ceci doit être fait par le groupe lui même. 
+
+
+## AAV
+UN certain nombre de propriétés :
+Un nom
+Une description 
+
+
+## Les types d’exercices :
+→ Exercice de calcul :
+  - 3 à 5 bonnes réponses d’affilée
+  - besoin de hasard
+→ Exercice de chute :
+  - « pass or fail »
+  - besoin d’une seule validation
+→ Exercice de définition :
+  - Vrai / Faux
+  - propositions générables par IA
+→Exercice de création :
+  - besoin d’une maîtrise avancée des notions
+  - exercice difficile
+  - mais corrigeable facilement
+  - Exemple : proposer une fonction validant toutes les conditions suivantes : lim en +oo est -oo , lim en Zéro = 44, etc
+→Exercice de validation par les pairs
+  - Dans les cas ou il n'est pas possible d'évaluer avec un exo auto évaluable
+  - attention il faut avoir une démarche de validation comme les exercices de Nicolas. IL faut évaluer les évaluation. les élèves fournissant des évaluation de leur évaluateur.
+
+# les types d'activités 
+
+## Activité définie par le prof 
+C'est le prof qui définie la liste des exercices qui sont dans l'activité quand il faut la faire etc etc.
+
+## Activités par les pairs de cours 
+Une activité pédagogique pour que les élèves travail soit concient de ce que font les autres.
+
+## Activité par les pairs pour évaluation 
 
 
 
