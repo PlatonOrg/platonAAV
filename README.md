@@ -54,6 +54,32 @@ Hors scope. A voir plus tard.
 
 
 
+## Les enseignants de cours 
+
+<ONT> des élèves inscrit dans <UN> cours sur la plateforme. 
+Leur besoins sont variés mais concentrés sur le suivi des élèves. Eventuellement le suivi des ressources.
+
+### Suivi des élèves 
+Identification des décrocheurs, et des Nouveaux décrocheur, chaque mois apporte sa peine ...
+Identifications de concepts (AAV) qui ne passent pas ou mal.
+Avancement général quantité de travail (combien de temps par semaine les élèves consacrent a ce cours...)
+
+
+## Créateur de ressources 
+
+## Responsable de formation 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
