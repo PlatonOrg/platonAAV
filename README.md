@@ -105,20 +105,25 @@ Une description
 
 
 ## Les types d’exercices :
+
 → Exercice de calcul :
   - 3 à 5 bonnes réponses d’affilée
   - besoin de hasard
+
 → Exercice de chute :
   - « pass or fail »
   - besoin d’une seule validation
+
 → Exercice de définition :
   - Vrai / Faux
   - propositions générables par IA
+
 →Exercice de création :
   - besoin d’une maîtrise avancée des notions
   - exercice difficile
   - mais corrigeable facilement
   - Exemple : proposer une fonction validant toutes les conditions suivantes : lim en +oo est -oo , lim en Zéro = 44, etc
+
 →Exercice de validation par les pairs
   - Dans les cas ou il n'est pas possible d'évaluer avec un exo auto évaluable
   - attention il faut avoir une démarche de validation comme les exercices de Nicolas. IL faut évaluer les évaluation. les élèves fournissant des évaluation de leur évaluateur.
