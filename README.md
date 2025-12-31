@@ -130,6 +130,9 @@ Une description
 
 # les types d'activités 
 
+## Activité pilotée 
+l'activité est définie par un ensemble d'aav et d'exercices associés, l'activité pilote l'apprentissage des aav en entrainant l'apprenant sur chacun des aav.
+
 ## Activité définie par le prof 
 C'est le prof qui définie la liste des exercices qui sont dans l'activité quand il faut la faire etc etc.
 
