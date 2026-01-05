@@ -16,4 +16,9 @@ Qui contient:
 si l'activité gère la bijection avec l'ontologie associée.
 
 
+* un indicateur de réussite -> 0 à 100, un pourcentage de réussite ?
+
+* le problème c'est que cette valeur doit être utilisée pour valider l'aav, en fonction de l'exercice et de l'aav cela peux signifier des choses différentes.
+
+
 
