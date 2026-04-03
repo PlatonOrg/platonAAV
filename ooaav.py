@@ -68,7 +68,7 @@ class AAV(BaseModel):
     ponderations: List[PonderationAAV] = Field(default_factory=list)
     
     # Évaluation et Fabrication
-    type_evaluation: TypeEvaluationAAV
+    type_evaluation: List[TypeEvaluationAAV] = Field(default_factory=list)
     ids_exercices: List[PositiveInt] = Field(default_factory=list)
     prompts_fabrication_ids: List[PositiveInt] = Field(default_factory=list)
     regles_progression: RegleProgression = Field(default_factory=RegleProgression)
